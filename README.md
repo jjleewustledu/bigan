@@ -1,3 +1,6 @@
+# Fork for attempting ports to tensorflow, compare_gan, sonnet, etc.  
+[John J. Lee](https://wustl.edu/directory)
+
 # Adversarial Feature Learning
 [Jeff Donahue](http://jeffdonahue.com/), [Philipp Krähenbühl](http://www.philkr.net/), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/)
 
